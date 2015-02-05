@@ -28,7 +28,7 @@ In order to create an organisation specific template from this template some inf
 
 #####To specify the information required to create an organisation specific template:
 
-insert the full legal name of the Grant Giving Organisation;
+Insert the full legal name of the Grant Giving Organisation;
 replace [Grant Giver] with the short name of the Grant Giving organisation throughout the document;
 in 11.4 specify which law will apply to interpretation of the agreement;
 in 15.6 and 15.7 specify which organisation will appoint an arbitrator if the parties do not agree on an arbitrator;
