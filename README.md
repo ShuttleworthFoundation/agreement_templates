@@ -28,12 +28,11 @@ In order to create an organisation specific template from this template some inf
 
 #####To specify the information required to create an organisation specific template:
 
-<<<<<<< HEAD
-Insert the full legal name of the Grant Giving Organisation;
-replace [Grant Giver] with the short name of the Grant Giving organisation throughout the document;
-in 11.4 specify which law will apply to interpretation of the agreement;
-in 15.6 and 15.7 specify which organisation will appoint an arbitrator if the parties do not agree on an arbitrator;
-in 16.11 specify an email address and physical address at which the grant giving organisation will recieve notices for purposes of the contract.
+- Insert the full legal name of the Grant Giving Organisation;
+- replace [Grant Giver] with the short name of the Grant Giving organisation throughout the document;
+- in 11.4 specify which law will apply to interpretation of the agreement;
+- in 15.6 and 15.7 specify which organisation will appoint an arbitrator if the parties do not agree on an arbitrator;
+- in 16.11 specify an email address and physical address at which the grant giving organisation will recieve notices for purposes of the contract.
 
 ###Employment Agreement - Explanatory Note
 
@@ -53,10 +52,9 @@ In order to create an organisation specific template from this template some inf
 
 
 Insert the full legal name of the Employer on the cover page, then replace [Employer] with the short name of the employer throughout the document; specify an email address and physical address at which the employer will recieve notices for purposes of the contract.
-=======
+
 - Insert the full legal name of the Grant Giving Organisation;
 - replace [Grant Giver] with the short name of the Grant Giving organisation throughout the document;
 - in 11.4 specify which law will apply to interpretation of the agreement;
 - in 15.6 and 15.7 specify which organisation will appoint an arbitrator if the parties do not agree on an arbitrator;
 - in 16.11 specify an email address and physical address at which the grant giving organisation will recieve notices for purposes of the contract.
->>>>>>> 3eba3e10b1bc4dc3f6c7597d8617c610dc8160cc
