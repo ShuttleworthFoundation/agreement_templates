@@ -28,8 +28,35 @@ In order to create an organisation specific template from this template some inf
 
 #####To specify the information required to create an organisation specific template:
 
+<<<<<<< HEAD
+Insert the full legal name of the Grant Giving Organisation;
+replace [Grant Giver] with the short name of the Grant Giving organisation throughout the document;
+in 11.4 specify which law will apply to interpretation of the agreement;
+in 15.6 and 15.7 specify which organisation will appoint an arbitrator if the parties do not agree on an arbitrator;
+in 16.11 specify an email address and physical address at which the grant giving organisation will recieve notices for purposes of the contract.
+
+###Employment Agreement - Explanatory Note
+
+This template does not bind the Shuttleworth Foundation in any way in negotiating any agreement.
+
+This template is for an agreement between an Employer and and Employee. It is not legal advice. It is written for use in South Africa, and labour laws in other jurisdictions might be dramatically different. Whatever is stated in the agreement does not overide the requirements of labour legislation, in some cases labour legislation sets minimium levels and an employment agreement may grant more to an employee.
+
+In order to create an organisation specific template from this template some informaton must be specified. This information is indicated in square brackets. Once this information is inserted the template can be used to create multiple specific contracts, the only changes required will be the name of the employee in the title and the details set out in agreement on starting dates and amounts of renumeration and specifying a grammatical gender for the employee by replacing [he/she] with the chosen pronoun throughout the document.
+
+#####To specify the information required to create an organisation specific template:
+
+- in 1 insert Job Title, Full Legal Name of Employer and Commencement Date,
+- in 2.1 insert Job Title,
+- in 2.2 insert Place of Business,
+- in insert 4.1 insert annual CTC (cost to company) salary figure,
+- in Signature Page insert Place of Signature, Day, Month and Year
+
+
+Insert the full legal name of the Employer on the cover page, then replace [Employer] with the short name of the employer throughout the document; specify an email address and physical address at which the employer will recieve notices for purposes of the contract.
+=======
 - Insert the full legal name of the Grant Giving Organisation;
 - replace [Grant Giver] with the short name of the Grant Giving organisation throughout the document;
 - in 11.4 specify which law will apply to interpretation of the agreement;
 - in 15.6 and 15.7 specify which organisation will appoint an arbitrator if the parties do not agree on an arbitrator;
 - in 16.11 specify an email address and physical address at which the grant giving organisation will recieve notices for purposes of the contract.
+>>>>>>> 3eba3e10b1bc4dc3f6c7597d8617c610dc8160cc
