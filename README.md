@@ -4,7 +4,7 @@ These Fellowship and Project Agreement Templates by the Shuttleworth Foundation 
 
 Permissions beyond the scope of this license may be available from the Shuttleworth Foundation (https://www.shuttleworthfoundation.org/contact).
 
-You are free to use these templates entirely at your own risk. By using these templates you agree that it is not legal advice. These templates have been drawn up for a specific legal jurisdiction. You may need to modify the templates for them to be suitable for your jurisdiction and circumstances.
+You are free to use these templates entirely at your own risk. By using a templates you agree that it is not legal advice. These templates have been drawn up for a specific legal jurisdiction. You may need to modify the templates for them to be suitable for your jurisdiction and circumstances.
 
 ### Fellowship Agreement - Explanatory Note
 
