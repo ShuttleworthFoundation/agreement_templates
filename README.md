@@ -1,6 +1,6 @@
 # Shuttleworth Foundation agreement templates
 
-These Fellowship and Project Agreement Templates by the Shuttleworth Foundation (https://www.shuttleworthfoundation.org) are licensed under a Creative Commons Attribution 4.0 Unported License (https://creativecommons.org/licenses/by/4.0).
+These Templates by the Shuttleworth Foundation (https://www.shuttleworthfoundation.org) are licensed under a Creative Commons Attribution 4.0 Unported License (https://creativecommons.org/licenses/by/4.0).
 
 Permissions beyond the scope of this license may be available from the Shuttleworth Foundation (https://www.shuttleworthfoundation.org/contact).
 
